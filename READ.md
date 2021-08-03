@@ -1,0 +1,2 @@
+This project is attempting to replicate the google.com homepage.
+The skills the project demonstrates include creating a basic webpage with html and css (including a logo, search form, navigation, and footer) and pushing a project to GitHub.
